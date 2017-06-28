@@ -1,0 +1,17 @@
+Problems:
+
+1.
+Added the following to the file ~/.theanorc
+
+[cuda] 
+root = /usr/local/cuda-8.0
+
+
+
+
+
+
+
+
+
+
