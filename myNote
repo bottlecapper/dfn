@@ -6,7 +6,8 @@ Added the following to the file ~/.theanorc
 [cuda] 
 root = /usr/local/cuda-8.0
 
-
+2.
+cudnn is too new
 
 
 
