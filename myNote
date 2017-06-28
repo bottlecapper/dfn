@@ -9,7 +9,8 @@ root = /usr/local/cuda-8.0
 2.
 cudnn is too new
 
-
+3.
+put data file into the dataset folder
 
 
 
